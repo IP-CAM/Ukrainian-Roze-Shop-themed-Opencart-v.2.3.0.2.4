@@ -2,3 +2,7 @@
 /changelog.md
 /.htaccess.txt
 /php.ini
+/catalog/view/theme/roze/dev/node_modules
+/catalog/view/theme/roze/dev/package-lock.json
+/system/storage/cache
+/image/cache

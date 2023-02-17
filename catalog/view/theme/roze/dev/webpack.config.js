@@ -40,7 +40,7 @@ module.exports = () => ({
         ...getEntries(`${PATHS.src_css}/components/*.scss`, 'css'),
     },
     output: {
-        path: PATHS.public,
+        path: path.resolve(__dirname, 'public'),
     },
     devtool: ENV.NODE_ENV === 'development' ? 'source-map' : false,
     resolve: {
@@ -105,7 +105,7 @@ module.exports = () => ({
         new CopyPlugin({
             patterns: [
                 { from: `${PATHS.src_img}`, to: 'images' },
-                { from: `${PATHS.src}/media`, to: 'media' },
+                // { from: `${PATHS.src}/media`, to: 'media' },
             ],
         }),
     ],

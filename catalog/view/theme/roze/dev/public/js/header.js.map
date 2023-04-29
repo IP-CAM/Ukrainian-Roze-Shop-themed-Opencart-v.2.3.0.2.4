@@ -1,0 +1,1 @@
+{"version":3,"file":"js/header.js","mappings":"AAEAA,QAAQC,IAFK","sources":["webpack://roze/./src/scripts/components/header.js"],"sourcesContent":["const test = 'test';\n\nconsole.log(test);\n"],"names":["console","log"],"sourceRoot":""}

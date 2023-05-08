@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'История платежей';
+$_['heading_title']      = 'Історія платежів';
 
 // Column
-$_['column_date_added']  = 'Добавлено';
-$_['column_description'] = 'Описание';
-$_['column_amount']      = 'Сумма (%s)';
+$_['column_date_added']  = 'Додано';
+$_['column_description'] = 'Опис';
+$_['column_amount']      = 'Сума (%s)';
 
 // Text
-$_['text_account']       = 'Личный кабинет';
-$_['text_transaction']   = 'Ваши платежи';
-$_['text_total']         = 'Ваш текущий баланс:';
-$_['text_empty']         = 'У вас не было платежей!';
+$_['text_account']       = 'Особистий кабінет';
+$_['text_transaction']   = 'Ваші платежі';
+$_['text_total']         = 'Ваш поточний баланс:';
+$_['text_empty']         = 'У вас не було платежів!';

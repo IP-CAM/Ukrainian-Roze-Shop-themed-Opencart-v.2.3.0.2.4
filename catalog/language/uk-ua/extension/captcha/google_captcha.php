@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Защитный код';
+$_['heading_title'] = 'Захисний код';
 
 // Entry
-$_['entry_captcha'] = 'Введите код';
+$_['entry_captcha'] = 'Введіть код';
 
 // Error
-$_['error_captcha'] = 'Введен неверный код!';
+$_['error_captcha'] = 'Введений невірний код!';

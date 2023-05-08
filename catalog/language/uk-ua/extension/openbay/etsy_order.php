@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_total_shipping']		= 'Shipping';
-$_['text_total_discount']		= 'Discount';
-$_['text_total_tax']			= 'Tax';
-$_['text_total_sub']			= 'Sub-total';
-$_['text_total']				= 'Total';
+$_['text_total_shipping']		= 'Доставка';
+$_['text_total_discount']		= 'Знижка';
+$_['text_total_tax']			= 'Податок';
+$_['text_total_sub']			= 'Проміжний підсумок';
+$_['text_total']				= 'Всього';

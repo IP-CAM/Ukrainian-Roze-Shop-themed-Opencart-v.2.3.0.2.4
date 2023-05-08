@@ -1,17 +1,17 @@
 <?php
 // Text
-$_['text_information']  = 'Информация';
-$_['text_service']      = 'Служба поддержки';
-$_['text_extra']        = 'Дополнительно';
-$_['text_contact']      = 'Связаться с нами';
-$_['text_return']       = 'Возврат товара';
-$_['text_sitemap']      = 'Карта сайта';
-$_['text_manufacturer'] = 'Производители';
-$_['text_voucher']      = 'Подарочные сертификаты';
-$_['text_affiliate']    = 'Партнёры';
-$_['text_special']      = 'Товары со скидкой';
-$_['text_account']      = 'Личный кабинет';
-$_['text_order']        = 'История заказов';
-$_['text_wishlist']     = 'Мои закладки';
-$_['text_newsletter']   = 'Рассылка новостей';
-$_['text_powered']      = 'Работает на <a target="_blank" href="https://ocstore.com/?utm_source=ocstore23">ocStore</a><br /> %s &copy; %s';
+$_['text_information']  = 'Інформація';
+$_['text_service']      = 'Служба підтримки';
+$_['text_extra']        = 'Додатково';
+$_['text_contact']      = 'Зв\'язатися з нами';
+$_['text_return']       = 'Повернення товару';
+$_['text_sitemap']      = 'Карта сайту';
+$_['text_manufacturer'] = 'Виробники';
+$_['text_voucher']      = 'Подарункові сертифікати';
+$_['text_affiliate']    = 'Партнери';
+$_['text_special']      = 'Товари зі знижкою';
+$_['text_account']      = 'Особистий кабінет';
+$_['text_order']        = 'Історія замовлень';
+$_['text_wishlist']     = 'Мої закладки';
+$_['text_newsletter']   = 'Розсилка новин';
+$_['text_powered']      = 'Працює на <a target="_blank" href="https://ocstore.com/?utm_source=ocstore23">ocStore</a><br /> %s &copy; %s';

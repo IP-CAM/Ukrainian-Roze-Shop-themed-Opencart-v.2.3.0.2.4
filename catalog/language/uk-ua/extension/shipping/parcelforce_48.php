@@ -2,6 +2,6 @@
 // Text
 $_['text_title']       = 'Parcelforce 48';
 $_['text_description'] = 'Parcelforce 48';
-$_['text_weight']      = 'Вес:';
-$_['text_insurance']   = 'Страховать на сумму:';
-$_['text_time']        = 'Приблизительное время: в течение 48 часов';
+$_['text_weight']      = 'Вага:';
+$_['text_insurance']   = 'Страхування на суму:';
+$_['text_time']        = 'Приблизний час: протягом 48 годин';

@@ -1,2 +1,2 @@
 <?php
-$_['heading_title'] = 'В магазине eBay';
+$_['heading_title'] = 'В магазині eBay';

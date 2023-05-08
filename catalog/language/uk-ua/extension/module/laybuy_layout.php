@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']            = 'Lay-Buy Information';
+$_['heading_title']            = 'Інформація про відкладну покупку';
 
 // Text
-$_['text_reference_info']      = 'Reference Information';
-$_['text_laybuy_ref_no']       = 'Lay-Buy Reference ID:';
-$_['text_paypal_profile_id']   = 'PayPal Profile ID:';
-$_['text_payment_plan']        = 'Payment Plan';
-$_['text_status']              = 'Status:';
-$_['text_amount']              = 'Amount:';
-$_['text_downpayment_percent'] = 'Down Payment Percent:';
-$_['text_months']              = 'Months:';
-$_['text_downpayment_amount']  = 'Down Payment Amount:';
-$_['text_payment_amounts']     = 'Payment Amounts:';
-$_['text_first_payment_due']   = 'First Payment Due:';
-$_['text_last_payment_due']    = 'Last Payment Due:';
-$_['text_downpayment']         = 'Down Payment';
-$_['text_month']               = 'Month';
+$_['text_reference_info']      = 'Довідкова інформація';
+$_['text_laybuy_ref_no']       = 'Референтний ідентифікатор Lay-Buy:';
+$_['text_paypal_profile_id']   = 'Ідентифікатор профілю PayPal:';
+$_['text_payment_plan']        = 'План оплати';
+$_['text_status']              = 'Статус:';
+$_['text_amount']              = 'Сума:';
+$_['text_downpayment_percent'] = 'Відсоток початкового внеску:';
+$_['text_months']              = 'Місяці:';
+$_['text_downpayment_amount']  = 'Сума початкового внеску:';
+$_['text_payment_amounts']     = 'Суми платежів:';
+$_['text_first_payment_due']   = 'Перший платіж до сплати:';
+$_['text_last_payment_due']    = 'Останній платіж до сплати:';
+$_['text_downpayment']         = 'Передоплата';
+$_['text_month']               = 'Місяць';
 
 // Column
-$_['column_instalment']        = 'Instalment';
-$_['column_amount']            = 'Amount';
-$_['column_date']              = 'Date';
-$_['column_pp_trans_id']       = 'PayPal Transaction ID';
-$_['column_status']            = 'Status';
+$_['column_instalment']        = 'Розстрочка';
+$_['column_amount']            = 'Сума';
+$_['column_date']              = 'Дата';
+$_['column_pp_trans_id']       = 'Ідентифікатор транзакції PayPal';
+$_['column_status']            = 'Статус';

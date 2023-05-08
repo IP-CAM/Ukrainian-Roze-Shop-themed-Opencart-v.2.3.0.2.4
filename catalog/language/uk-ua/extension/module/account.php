@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Личный кабинет';
+$_['heading_title']    = 'Особистий кабінет';
 
 // Text
-$_['text_register']    = 'Регистрация';
-$_['text_login']       = 'Авторизация';
-$_['text_logout']      = 'Выйти';
-$_['text_forgotten']   = 'Напомнить пароль';
-$_['text_account']     = 'Личный кабинет';
-$_['text_edit']        = 'Учетная запись';
-$_['text_password']    = 'Смена пароля';
-$_['text_address']     = 'Адреса доставки';
-$_['text_wishlist']    = 'Мои закладки';
-$_['text_order']       = 'История заказов';
-$_['text_download']    = 'Файлы для скачивания';
-$_['text_reward']      = 'Бонусные баллы';
-$_['text_return']      = 'Возврат товара';
-$_['text_transaction'] = 'История платежей';
-$_['text_newsletter']  = 'Подписка на новости';
-$_['text_recurring']   = 'Периодические платежи';
+$_['text_register']    = 'Реєстрація';
+$_['text_login']       = 'Авторизація';
+$_['text_logout']      = 'Вийти';
+$_['text_forgotten']   = 'Нагадати пароль';
+$_['text_account']     = 'Особистий кабінет';
+$_['text_edit']        = 'Обліковий запис';
+$_['text_password']    = 'Зміна пароля';
+$_['text_address']     = 'Адреси доставки';
+$_['text_wishlist']    = 'Мої закладки';
+$_['text_order']       = 'Історія замовлень';
+$_['text_download']    = 'Файли для скачування';
+$_['text_reward']      = 'Бонусні бали';
+$_['text_return']      = 'Повернення товару';
+$_['text_transaction'] = 'Історія платежів';
+$_['text_newsletter']  = 'Підписка на новини';
+$_['text_recurring']   = 'Періодичні платежі';

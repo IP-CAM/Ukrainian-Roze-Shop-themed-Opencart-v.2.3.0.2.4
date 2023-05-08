@@ -1,5 +1,5 @@
 <?php
 // Text
 $_['text_title']  = 'Доставка';
-$_['text_total']  = 'Сумма:'; 
+$_['text_total']  = 'Сума:';
 ?>

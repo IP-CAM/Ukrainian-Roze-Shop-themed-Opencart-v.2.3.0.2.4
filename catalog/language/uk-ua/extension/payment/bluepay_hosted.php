@@ -1,28 +1,28 @@
 <?php
 // Text
-$_['text_title']				= 'Кредитная / дебетовая карта (BluePay)';
-$_['text_credit_card']			= 'Данные карты';
-$_['text_description']			= 'Товаров в %s заказ №: %s';
-$_['text_card_type']			= 'Тип карты: ';
-$_['text_card_name']			= 'Название карты: ';
-$_['text_card_digits']			= 'Последние цифры: ';
-$_['text_card_expiry']			= 'Срок действия: ';
-$_['text_transaction_error']	= 'Произошла ошибка при обработке транзакции - ';
+$_['text_title']				= 'Кредитна / дебетова картка (BluePay)';
+$_['text_credit_card']			= 'Дані карти';
+$_['text_description']			= 'Товарів у %s замовлення №: %s';
+$_['text_card_type']			= 'Тип картки: ';
+$_['text_card_name']			= 'Назва картки: ';
+$_['text_card_digits']			= 'Останні цифри: ';
+$_['text_card_expiry']			= 'Термін дії: ';
+$_['text_transaction_error']	= 'Сталася помилка під час обробки транзакції - ';
 
 // Entry
-$_['entry_card']				= 'Новая или существующая карта: ';
-$_['entry_card_existing']		= 'Существующая';
-$_['entry_card_new']			= 'Новая';
-$_['entry_card_save']			= 'Запомнить данные карты';
-$_['entry_cc_owner']			= 'Владелец карты';
-$_['entry_cc_number']			= 'Номер карты';
-$_['entry_cc_start_date']		= 'Карта действует с даты';
-$_['entry_cc_expire_date']		= 'Срок действия карты';
-$_['entry_cc_cvv2']				= 'Код безопасности карты (CVV2)';
-$_['entry_cc_address']			= 'Адрес улицы';
-$_['entry_cc_city']				= 'Город';
+$_['entry_card']				= 'Нова чи існуюча карта: ';
+$_['entry_card_existing']		= 'Існуюча';
+$_['entry_card_new']			= 'Нова';
+$_['entry_card_save']			= 'Запам\'ятати дані картки';
+$_['entry_cc_owner']			= 'Власник карти';
+$_['entry_cc_number']			= 'Номер картки';
+$_['entry_cc_start_date']		= 'Карта діє з дати';
+$_['entry_cc_expire_date']		= 'Термін дії карти';
+$_['entry_cc_cvv2']				= 'Код безпеки картки (CVV2)';
+$_['entry_cc_address']			= 'Адреса вулиці';
+$_['entry_cc_city']				= 'Місто';
 $_['entry_cc_state']			= 'Область';
-$_['entry_cc_zipcode']			= 'Почтовый индекс';
+$_['entry_cc_zipcode']			= 'Поштовий індекс';
 $_['entry_cc_phone']			= 'Телефон';
-$_['entry_cc_email']			= 'Адрес электронной почты';
-$_['entry_cc_choice']			= 'Выбор существующей карты';
+$_['entry_cc_email']			= 'Адреса електронної пошти';
+$_['entry_cc_choice']			= 'Вибір існуючої карти';
